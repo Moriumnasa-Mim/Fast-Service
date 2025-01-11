@@ -260,7 +260,7 @@ body {
     font-weight: 700;
     font-size: 36px;
     text-align: left;
-    margin-bottom: 10px; /* নিচে কিছু স্পেস রাখার জন্য */
+    margin-bottom: 10px; 
     color: #FFFFFF;
 }
 
@@ -268,7 +268,7 @@ body {
     font-weight: 700;
     font-size: 48px;
     text-align: right;
-    margin-bottom: 10px; /* নিচে কিছু স্পেস রাখার জন্য */
+    margin-bottom: 10px; 
     color: #EBFF3D;
 }
 
@@ -276,15 +276,15 @@ body {
     width: 100%;
     height: 1px;
     background-color: #FFFFFF;
-    margin: 10px 0px; /* লাইন ও অন্যান্য উপাদানের মধ্যে স্পেস */
+    margin: 10px 0px; 
 }
 
 .cards .description {
     color: #FFFFFF;
     text-align: center;
-    margin-top: 10px; /* টেক্সট ও লাইন এর মাঝে স্পেস */
-    font-size: 16px; /* Description টেক্সটের জন্য সঠিক আকার */
-    line-height: 1.5; /* টেক্সটের readability উন্নত করার জন্য */
+    margin-top: 10px; 
+    font-size: 16px; 
+    line-height: 1.5; 
 }
 
 /* Footer Section */
