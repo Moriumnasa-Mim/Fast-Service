@@ -32,8 +32,6 @@
                       <Icon name="tabler:hand-finger-right" />
                   </button>
               </div>
-
-
           </div>
       </header>
 
@@ -63,7 +61,6 @@
                       </div>
 
 <!-- Card 2 -->
-
                       <div class="max-w-[406px] min-h-[397px] border-[3px] p-15 group hover:bg-[#1B4B36] 
                       lg:transition ease-in-out delay-200 border-[#1B4B36] py-[10px] px-[10px] text-center 
                       rounded-tl-[35px] rounded-br-[35px] cursor-pointer justify-center">
@@ -134,7 +131,6 @@
                               মিউজিক চালানো বা ক্যামেরা ক্লিক করুন আপনার স্মার্টওয়াচ থেকে।
                               সহজ এবং সাবলীল ব্যবহারের সুবিধা।</p>
                       </div>
-
                   </div>
                   <!-- Button -->
 
@@ -145,7 +141,6 @@
                           <Icon name="tabler:hand-finger-right" />
                       </button>
                   </div>
-
               </div>
           </section>
       </main>
@@ -236,8 +231,7 @@
     </div>
 </footer>
 
-
-  </div>
+</div>
 </template>
 
 <script setup>
