@@ -213,15 +213,15 @@ body {
 }
 
 .feedbacks {
-    display: grid; /* Flex এর বদলে Grid ব্যবহার */
-    grid-template-columns: repeat(2, 1fr); /* দুই কলামের জন্য গ্রিড */
-    gap: 20px; /* গ্রিড আইটেমের মাঝে গ্যাপ */
-    justify-content: center; /* আইটেম সেন্টারে রাখার জন্য */
+    display: grid; 
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 20px; 
+    justify-content: center; 
     align-items: center;
 }
 @media screen and (max-width: 600px) {
     .feedbacks {
-        grid-template-columns: 1fr; /* ছোট স্ক্রিনে এক কলামে পরিবর্তন */
+        grid-template-columns: 1fr; 
     }
 }
 
