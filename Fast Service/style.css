@@ -248,11 +248,11 @@ body {
     margin: 20px;
     border-radius: 20px;
     border: 1px solid white;
-    padding: 20px; /* কার্ডের ভেতরে জায়গা রাখার জন্য */
+    padding: 20px; 
     display: flex;
-    flex-direction: column; /* টেক্সটগুলো উপরে-নিচে রাখার জন্য */
-    justify-content: space-between; /* টেক্সটের মধ্যে সঠিক গ্যাপ রাখার জন্য */
-    height: auto; /* Dynamic height যাতে ওভারল্যাপ না হয় */
+    flex-direction: column; 
+    justify-content: space-between; 
+    height: auto; 
     position: relative;
 }
 
