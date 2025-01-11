@@ -51,10 +51,10 @@ body {
 
 .text_container p:nth-child(2) {
     background-color: #EBFF3D;
-    display: inline-block; /* Text এর সাইজ অনুযায়ী ব্যাকগ্রাউন্ড সীমিত থাকবে */
-    padding: 10px 15px; /* Text এর চারপাশে জায়গা রাখার জন্য */
-    border-radius: 5px; /* ধীরে ধীরে গোলাকার কোণ */
-    white-space: nowrap; /* Text এক লাইনে রাখার জন্য */
+    display: inline-block; 
+    padding: 10px 15px; 
+    border-radius: 5px; 
+    white-space: nowrap; 
     font-size: 2rem;
     line-height: 60px;
     text-align: center;
